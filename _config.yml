@@ -1,0 +1,14 @@
+layout_spectrum: 0.13104081759229302
+typography_spectrum: 0.6570679331198335
+color:
+  brandStrength: 0.8046902380883694
+  lightness: 0.6963833970949054
+  saturation: 0.9638823545537889
+  rhythmicContrast: 0.7169776393566281
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+name: WorldView
